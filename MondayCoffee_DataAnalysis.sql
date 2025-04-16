@@ -270,16 +270,21 @@ ORDER BY 4 DESC
 /*
 -- Recomendation
 City 1: Pune
-	1.Average rent per customer is very low.
-	2.Highest total revenue.
-	3.Average sales per customer is also high.
 
-City 2: Delhi
-	1.Highest estimated coffee consumers at 7.7 million.
-	2.Highest total number of customers, which is 68.
-	3.Average rent per customer is 330 (still under 500).
+Achieved the highest total revenue among all cities.
+Maintains a low average rent per customer, ensuring high profitability.
+Demonstrates strong customer purchasing power with a high average sale per customer.
 
-City 3: Jaipur
-	1.Highest number of customers, which is 69.
-	2.Average rent per customer is very low at 156.
-	3.Average sales per customer is better at 11.6k.
+City 2:  Delhi
+
+Leads with the highest estimated coffee consumer base (~7.7 million).
+Has the largest active customer base (68 customers).
+Rent per customer is reasonable at ₹330, supporting sustainable operations.
+
+City 3:  Jaipur
+
+Highest number of unique customers (69), indicating high engagement.
+Features the lowest average rent per customer at just ₹156.
+Maintains strong average sales (~₹11.6K), reflecting solid individual spending.
+
+
